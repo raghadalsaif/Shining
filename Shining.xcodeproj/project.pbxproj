@@ -94,6 +94,9 @@
 		56467B5F298BDBE700D487D7 /* Shining */ = {
 			isa = PBXGroup;
 			children = (
+				56467B8C298BDC1500D487D7 /* ViewModel */,
+				56467B8B298BDC0300D487D7 /* Model */,
+				56467B8A298BDBFA00D487D7 /* View */,
 				56467B60298BDBE700D487D7 /* ShiningApp.swift */,
 				56467B62298BDBE700D487D7 /* ContentView.swift */,
 				56467B64298BDBE800D487D7 /* Assets.xcassets */,
@@ -125,6 +128,27 @@
 				56467B7D298BDBE800D487D7 /* ShiningUITestsLaunchTests.swift */,
 			);
 			path = ShiningUITests;
+			sourceTree = "<group>";
+		};
+		56467B8A298BDBFA00D487D7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		56467B8B298BDC0300D487D7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		56467B8C298BDC1500D487D7 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
